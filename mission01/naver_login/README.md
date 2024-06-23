@@ -16,6 +16,8 @@
 
 validation 함수가 모두 true일 시 로그인을 성공시키는 함수를 만들고 싶었지만, validation 함수를 잘못 만든 것 같아 로그인 조건 함수 자체를 만들지 못한 것 같습니다. 과제 제출 후 다시 만들어보겠습니다. 감사합니다.
 
+[네이버 로그인-main.js 바로가기](https://github.com/Yooniverse42/js-homework/blob/main/mission01/naver_login/js/main.js)
+
 
 
 
