@@ -1,5 +1,3 @@
-
-
 class AudioPlayer {
   #audio = null;
 
